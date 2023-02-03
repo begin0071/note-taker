@@ -6,7 +6,7 @@ A note taking application where users can write, save and deletes notes.
 * Assignment: #11
 * Due: 2/2/2023  
 * deployed-Github: https://begin0071.github.io/note-taker/
-* deployed-Heroku: https://note-application.herokuapp.com/
+* deployed-Heroku:  https://note-takerr-app.herokuapp.com/
 * repo: https://github.com/begin0071/note-taker
 
 * Photo
@@ -42,7 +42,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-## instal  
+## install  
 
 ```
 npm install  
